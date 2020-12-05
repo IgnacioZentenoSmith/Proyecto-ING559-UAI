@@ -1,4 +1,4 @@
-import json, urllib.request, sys
+import json, urllib.request
 
 """
 Get Commander legal cards ordered by price (descending). This should have enough assorted cards with no alphabetical
